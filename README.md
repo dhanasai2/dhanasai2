@@ -6,7 +6,7 @@ About Me
 - 📫 How to reach me www.linkedin.com/in/dhana-sai ...
 - 😄 Pronouns: He/His ...
 <h1 align="center">Hi 👋, I'm Dhana Sai</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanasai2&label=Profile%20views&color=0e75b6&style=flat" alt="dhanasai2" /> </p>
 
