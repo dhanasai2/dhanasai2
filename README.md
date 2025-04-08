@@ -1,5 +1,4 @@
 About Me
-https://we.tl/t-mB3Eh1OCXE
 - 👋 Hi, I’m @dhanasai2
 - 👀 I’m interested App Development and AI
 - 🌱 I’m currently learning DSA And Machine Learning...
