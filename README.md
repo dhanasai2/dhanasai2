@@ -15,7 +15,7 @@ About Me
 
 - 📫 How to reach me **saigundumogula5@gmail.com**
 
-- ⚡ Fun fact **I don't think i have one**
+- ⚡ Fun fact **ummmm**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
