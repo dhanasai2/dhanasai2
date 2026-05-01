@@ -1,36 +1,72 @@
-About Me
-- 👋 Hi, I’m @dhanasai2
-- 👀 I’m interested App Development and AI
-- 🌱 I’m currently learning DSA And Machine Learning...
-- 💞️ I’m looking to collaborate on LinkedIn...
-- 📫 How to reach me www.linkedin.com/in/dhana-sai ...
-- 😄 Pronouns: He/His ....
-<h1 align="center">Hi 👋, I'm Dhana Sai</h1>
-<h3 align="center">A passionate Programmer from India</h3>
+<div align="center">
 
+# Gundumogula Dhana Sai
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanasai2&label=Profile%20views&color=0e75b6&style=flat" alt="dhanasai2" /> </p>
+**Building at the edge of distributed systems, quantum ML, and performance engineering.**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanasai2" alt="dhanasai2" /></a> </p>
+[
 
-- 📫 How to reach me **saigundumogula5@gmail.com**
+![LinkedIn](https://img.shields.io/badge/LinkedIn-dhana--sai-0077B5?style=flat&logo=linkedin)
 
-- ⚡ Fun fact **ummmm**
+](https://linkedin.com/in/dhana-sai)
+[
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/the_six_eyes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_six_eyes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dhana-sai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhana-sai" height="30" width="40" /></a>
-<a href="https://instagram.com/sai_gundumogula_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sai_gundumogula_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dhanasai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dhanasai" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dhana_sai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dhana_sai" height="30" width="40" /></a>
-</p>
+![LeetCode](https://img.shields.io/badge/LeetCode-100%2B_solved-FFA116?style=flat&logo=leetcode&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+](https://leetcode.com/dhana_sai)
+[
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhanasai2&show_icons=true&locale=en&layout=compact" alt="dhanasai2" /></p>
+![Email](https://img.shields.io/badge/Email-saigundumogula5@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhanasai2&show_icons=true&locale=en" alt="dhanasai2" /></p>
+](mailto:saigundumogula5@gmail.com)
+[
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanasai2&" alt="dhanasai2" /></p>
+![Profile Views](https://komarev.com/ghpvc/?username=dhanasai2&color=0e75b6&style=flat&label=Profile+Views)
+
+](https://github.com/dhanasai2)
+
+</div>
+
+---
+
+## About
+
+B.Tech IT student at JNTUGV (CGPA 8.25, graduating 2027). Most of my growth has happened outside the classroom — by building real systems and going deep on how they perform under pressure.
+
+I've co-authored two research papers: a graph data structure achieving **1,000,000× query latency improvement** over BFS baselines, and a **BB84 quantum key distribution framework** for secure 6G sensor networks. On the engineering side, I've shipped a real-time fraud detection pipeline on Kafka, a quantum-enhanced health platform processing 519K+ daily AQI records, and a C++ telemetry pipeline hitting **2.1 GB/s** via AVX2 SIMD.
+
+Currently seeking an **SDE Internship** where the problems are hard and the team moves fast.
+
+---
+
+## Featured Projects
+
+| Project | Stack | What it does |
+|---|---|---|
+| [**QUANTGUARD**](https://github.com/dhanasai2/QUANTGUARD) | Kafka · Qiskit · FastAPI · Docker · Pathway | Real-time fraud detection — ML scoring + IBM QPU VQC + Groq LLM RAG |
+| [**QEHIRS**](https://github.com/dhanasai2/QEHIRS) | FastAPI · TensorFlow · Qiskit · React | Health intelligence platform — 519K+ daily AQI records, 18+ models, QAOA on IBM hardware |
+| [**gr-ccsds-demo**](https://github.com/dhanasai2/gr-ccsds-demo) | C++ · AVX2/SIMD · Viterbi FEC · GNU Radio | 2.1 GB/s telemetry pipeline — 8× scalar via SIMD vectorization |
+
+---
+
+## Research
+
+**FR-DCO: Fracture-Resilient Dynamic Connectivity Oracle** — JNTUGV CEV · 2025
+Novel graph data structure for 90,000-router internet backbone monitoring.
+1,000,000× query latency improvement over BFS/BST baselines. Benchmarked in C++ with AVX2.
+
+**Secure Quantum Key Exchange: BB84 + AES-GCM** — JNTUGV CEV · 2025
+Hybrid quantum-classical security framework for 6G sensor networks.
+QBER held below 11% security threshold under realistic channel noise.
+
+---
+
+## Tech Stack
+
+```text
+Languages        Python · C++ · Java · JavaScript · Bash
+Distributed      Apache Kafka · Docker · WebSockets · Pathway · Consistent Hashing
+ML / Quantum     TensorFlow · XGBoost · scikit-learn · IBM Qiskit · QAOA · AerSimulator
+Backend          FastAPI · Spring Boot · Django · Flask · PostgreSQL · MongoDB
+Frontend         React · TypeScript · Tailwind CSS
+Tools            Git · Docker Compose · pytest · CMake · GNU Radio
